@@ -1,0 +1,2 @@
+# lazes
+Lazarus Mazes demo
